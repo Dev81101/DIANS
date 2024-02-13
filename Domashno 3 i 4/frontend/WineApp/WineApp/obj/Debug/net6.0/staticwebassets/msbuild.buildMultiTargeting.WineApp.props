@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WineApp.props" />
+</Project>
